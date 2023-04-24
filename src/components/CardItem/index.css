@@ -1,0 +1,33 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+/* Write CSS code here. */
+.technology_card {
+  margin: 10px;
+}
+.title {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+.descr {
+  color: #64748b;
+  font-size: 18px;
+}
+.image_container {
+  display: flex;
+  justify-content: flex-end;
+}
